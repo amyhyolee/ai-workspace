@@ -1,0 +1,6 @@
+1. 사용하는 가상환경의 anaconda prompt를 실행한다.
+
+2. 다음 명령어로 원하는 경로로 이동한다
+   cd 경로
+
+3. jupyter notebook

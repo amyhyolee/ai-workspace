@@ -1,0 +1,12 @@
+1. 가상환경을 생성한다.
+아나콘다 프롬프트에서.....
+conda create -n 가상환경이름 python=버전
+conda create -n ds python=3.8.12
+
+2. 시작 메뉴에서 아나콘다 네비게이터를 실행한다.
+
+3. 상단의 "Application on"을 새로 만든 가상환경으로 
+  변경한다.
+
+4. 변경후 하단 애플리케이션 목록에서 cmd.exe와 jupyter를
+   install을 눌러 설치한다.
