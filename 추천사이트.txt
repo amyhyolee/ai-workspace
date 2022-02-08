@@ -3,3 +3,6 @@ https://datascienceschool.net/intro.html
 
 - 캐글
 https://www.kaggle.com/
+
+- tutorialspoint
+https://www.tutorialspoint.com/index.htm
